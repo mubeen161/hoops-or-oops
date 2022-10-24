@@ -1,4 +1,4 @@
-# hoops-or-oops
+# Hoops-or-Oops
 Basket-Ball Game using SPARK-AR. 
 
 
